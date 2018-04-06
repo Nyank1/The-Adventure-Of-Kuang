@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"dav","characterIndex":0,"characterName":"dav","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"dav","traits":[],"initialLevel":1,"maxLevel":99,"name":"大卫-恩菲尔德","nickname":"大卫","note":"","profile":"大卫-恩菲尔德，出生于美国加利福尼亚州洛杉矶，是一个计算机天才，传说他可以通过二进制代码在脑内写出一套操作系统。"},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":1,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"托拜厄斯-埃托玛特","nickname":"警官","note":"","profile":"大卫的童年玩伴，长大后去了纽约，现在是一名警探。"},
+{"id":3,"battlerName":"roen","characterIndex":7,"characterName":"6896588","classId":1,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"roen2","traits":[],"initialLevel":1,"maxLevel":99,"name":"诺姆-$罗","nickname":"罗恩","note":"","profile":"大卫的异母姐姐，出生于法国巴黎。"},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":1,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"CB","nickname":"CB","note":"","profile":"谜一样的男子，大卫的网友。"},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"布海俄因-格雷格森","nickname":"布海","note":"","profile":"罗恩的朋友。"}
+]
