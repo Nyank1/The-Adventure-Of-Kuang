@@ -1,7 +1,9 @@
 [
 null,
 {"id":1,"list":[{"code":102,"indent":0,"parameters":[["打开那个男人的页面","学习高超的黑客技巧","算了"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"打开那个男人的页面"]},{"code":355,"indent":1,"parameters":["window.open('https://space.bilibili.com/734400');"]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"学习高超的黑客技巧"]},{"code":321,"indent":1,"parameters":[1,1,true]},{"code":316,"indent":1,"parameters":[0,1,0,0,1,true]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"算了"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"电脑","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":2,"list":[{"code":212,"indent":0,"parameters":[-1,10,true]},{"code":0,"indent":0,"parameters":[]}],"name":"光剑","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["糟糕，天使和恶魔带来了计算机病毒，叠加到4层就会死亡！"]},{"code":122,"indent":0,"parameters":[20,20,1,0,1]},{"code":126,"indent":0,"parameters":[8,0,0,1]},{"code":0,"indent":0,"parameters":[]}],"name":"中毒","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["防火墙清理了所有的病毒!"]},{"code":122,"indent":0,"parameters":[20,20,0,0,0]},{"code":126,"indent":0,"parameters":[8,1,0,999]},{"code":0,"indent":0,"parameters":[]}],"name":"解读","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":314,"indent":0,"parameters":[0,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["用手机优化了自己的代码"]},{"code":0,"indent":0,"parameters":[]}],"name":"回复","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["1、蓝"]},{"code":401,"indent":0,"parameters":["2、蓝→黑"]},{"code":401,"indent":0,"parameters":["3、粉"]},{"code":401,"indent":0,"parameters":["4、粉→黄"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["5、蓝黑粉黄【无顺序】"]},{"code":0,"indent":0,"parameters":[]}],"name":"手记","switchId":1,"trigger":0}
 ]
