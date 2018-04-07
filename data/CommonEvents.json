@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":102,"indent":0,"parameters":[["打开那个男人的页面","学习高超的黑客技巧","算了"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"打开那个男人的页面"]},{"code":355,"indent":1,"parameters":["window.open('https://space.bilibili.com/734400');"]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"学习高超的黑客技巧"]},{"code":321,"indent":1,"parameters":[1,1,true]},{"code":316,"indent":1,"parameters":[0,1,0,0,1,true]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"算了"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"电脑","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
